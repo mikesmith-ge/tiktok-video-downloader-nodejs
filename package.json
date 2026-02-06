@@ -1,0 +1,35 @@
+{
+  "name": "tiktok-video-downloader",
+  "version": "1.0.0",
+  "description": "Lightweight Node.js script to extract video URLs from public TikTok posts. No API key required.",
+  "main": "tiktok-downloader.js",
+  "bin": {
+    "tiktok-downloader": "./tiktok-downloader.js"
+  },
+  "scripts": {
+    "test": "node tiktok-downloader.js --help"
+  },
+  "keywords": [
+    "tiktok",
+    "downloader",
+    "video",
+    "scraper",
+    "tiktok-downloader",
+    "tiktok-scraper",
+    "social-media",
+    "no-api"
+  ],
+  "author": "Instaboost Team",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mikesmith-ge/tiktok-video-downloader-nodejs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mikesmith-ge/tiktok-video-downloader-nodejs/issues"
+  },
+  "homepage": "https://github.com/mikesmith-ge/tiktok-video-downloader-nodejs#readme"
+}
