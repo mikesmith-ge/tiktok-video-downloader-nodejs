@@ -11,8 +11,6 @@
 **TikTok Video Downloader** is a simple, pure Node.js tool that extracts videos from public TikTok posts by parsing Open Graph meta tags. Perfect for educational purposes, prototypes, or small-scale projects.
 
 **Part of the Instaboost Tools collection:**
-- [Instagram Downloader (PHP)](https://github.com/mikesmith-ge/instagram-media-downloader-php)
-- [Instagram Downloader (Python)](https://github.com/mikesmith-ge/instagram-media-downloader-python)
 - [TikTok Downloader (PHP)](https://github.com/mikesmith-ge/tiktok-video-downloader-php)
 - **TikTok Downloader (Node.js)** (you are here)
 
@@ -232,6 +230,9 @@ Looking for other social media tools?
 - **[Instagram Downloader (PHP)](https://github.com/mikesmith-ge/instagram-media-downloader-php)** – Extract Instagram media
 - **[Instagram Downloader (Python)](https://github.com/mikesmith-ge/instagram-media-downloader-python)** – Python version
 - **[TikTok Downloader (PHP)](https://github.com/mikesmith-ge/tiktok-video-downloader-php)** – PHP version
+- **[YouTube Shorts Downloader (Python)](https://github.com/mikesmith-ge/youtube-shorts-downloader-python)** – Download YouTube Shorts
+- **[YouTube Shorts Downloader (PHP)](https://github.com/mikesmith-ge/youtube-shorts-downloader-php)** – YouTube in PHP
+- **[YouTube Shorts Downloader (Node.js)](https://github.com/mikesmith-ge/youtube-shorts-downloader-nodejs)** – YouTube in JavaScript
 - More tools coming soon!
 
 ## 📄 License
